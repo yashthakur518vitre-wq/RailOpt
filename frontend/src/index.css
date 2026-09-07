@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-ink font-sans;
+    font-feature-settings: "tnum" 1; /* tabular numerals for aligned timestamps/durations */
+  }
+  .font-data { @apply font-mono tracking-tight; }
+}

@@ -1,0 +1,13 @@
+corridor_id,name,start_station,end_station,distance_km,route_type,capacity,availability_windows
+COR-001,Delhi-Mumbai Rajdhani,New Delhi,Mumbai Central,1384.0,Main,8,"[{""day"": ""0-6"", ""start_hour"": 0, ""end_hour"": 5}, {""day"": ""0-6"", ""start_hour"": 23, ""end_hour"": 24}]"
+COR-002,Delhi-Kolkata,New Delhi,Howrah,1530.0,Main,7,"[{""day"": ""0-6"", ""start_hour"": 0, ""end_hour"": 5}, {""day"": ""0-6"", ""start_hour"": 23, ""end_hour"": 24}]"
+COR-003,Delhi-Chennai,New Delhi,Chennai Central,2180.0,Main,6,"[{""day"": ""0-6"", ""start_hour"": 0, ""end_hour"": 5}, {""day"": ""0-6"", ""start_hour"": 23, ""end_hour"": 24}]"
+COR-004,Mumbai-Chennai,Mumbai CST,Chennai Central,1280.0,Main,6,"[{""day"": ""0-6"", ""start_hour"": 0, ""end_hour"": 5}, {""day"": ""0-6"", ""start_hour"": 23, ""end_hour"": 24}]"
+COR-005,Kolkata-Chennai,Howrah,Chennai Central,1660.0,Main,5,"[{""day"": ""0-6"", ""start_hour"": 0, ""end_hour"": 5}, {""day"": ""0-6"", ""start_hour"": 23, ""end_hour"": 24}]"
+COR-006,Delhi-Jaipur,New Delhi,Jaipur,308.0,Branch,5,"[{""day"": ""0-6"", ""start_hour"": 1, ""end_hour"": 6}]"
+COR-007,Mumbai-Pune,Mumbai CST,Pune,192.0,Branch,6,"[{""day"": ""0-6"", ""start_hour"": 1, ""end_hour"": 6}]"
+COR-008,Chennai-Bangalore,Chennai Central,Bangalore,362.0,Branch,5,"[{""day"": ""0-6"", ""start_hour"": 1, ""end_hour"": 6}]"
+COR-009,Mumbai Suburban West,Churchgate,Virar,60.0,Suburban,10,"[{""day"": ""0-6"", ""start_hour"": 1, ""end_hour"": 4}]"
+COR-010,Mumbai Suburban Central,CST,Kasara,120.0,Suburban,10,"[{""day"": ""0-6"", ""start_hour"": 1, ""end_hour"": 4}]"
+COR-011,Delhi-Lucknow,New Delhi,Lucknow,524.0,Main,6,"[{""day"": ""0-6"", ""start_hour"": 0, ""end_hour"": 5}, {""day"": ""0-6"", ""start_hour"": 23, ""end_hour"": 24}]"
+COR-012,Kolkata Suburban,Sealdah,Ranaghat,80.0,Suburban,8,"[{""day"": ""0-6"", ""start_hour"": 1, ""end_hour"": 4}]"

@@ -1,0 +1,32 @@
+{
+  "version": "1",
+  "priority_model": {
+    "loaded": true,
+    "version": "1",
+    "metrics": {
+      "MAE": 5.921500798627306,
+      "RMSE": 7.110665927275966,
+      "R2": 0.7339999209141321
+    }
+  },
+  "risk_model": {
+    "loaded": true,
+    "version": "1",
+    "metrics": {
+      "Accuracy": 0.7,
+      "Precision": 0.6190476190476191,
+      "Recall": 0.65,
+      "F1": 0.6341463414634146,
+      "ROC_AUC": 0.7870833333333334
+    }
+  },
+  "impact_model": {
+    "loaded": true,
+    "version": "1",
+    "metrics": {
+      "MAE": 6.864232431261692,
+      "RMSE": 8.371863144478183,
+      "R2": 0.6836262178891168
+    }
+  }
+}
